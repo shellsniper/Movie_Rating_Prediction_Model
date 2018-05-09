@@ -1,0 +1,45 @@
+Error margin for Naive Bayes: 2.53
+
+Error margin for Random Forest: 0.96
+
+Error margin for Decision Tree: 1.09
+
+Error margin for AdaBoost: 1.08
+
+Error margin for MLP: 0.86
+
+Error margin for SVM: 0.87
+
+Error margin for KNN: 0.97
+
+
+
+Error margin for Naive Bayes: 2.52
+
+Error margin for Random Forest: 0.94
+
+Error margin for Decision Tree: 1.08
+
+Error margin for AdaBoost: 1.07
+
+Error margin for MLP: 0.86
+
+Error margin for SVM: 0.86
+
+Error margin for KNN: 0.97
+
+
+
+Error margin for Naive Bayes: 2.53
+
+Error margin for Random Forest: 0.69
+
+Error margin for Decision Tree: 0.80
+
+Error margin for AdaBoost: 1.00
+
+Error margin for MLP: 0.80
+
+Error margin for SVM: 0.80
+
+Error margin for KNN: 0.92
